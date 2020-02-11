@@ -6,7 +6,7 @@ export default class Join extends Component {
     render() {
         return (
             <div>
-                
+                join works
             </div>
         )
     }
