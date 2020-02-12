@@ -11,10 +11,12 @@ export class FormUserDetails extends Component {
         padding: 20px; 
         display: flex; 
         justify-content: center;
+        flex-direction: column;
         `
 
         const LabelTag = styled.label`
         margin-right: 30px; 
+        
         `
         const Answers = styled.input`
         margin-right: 30px; 

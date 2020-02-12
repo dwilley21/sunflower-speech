@@ -16,6 +16,8 @@ export class FormPersonalDetails extends Component {
         padding: 20px; 
         display: flex; 
         justify-content: center;
+        flex-direction: column;
+
         `
 
         const LabelTag = styled.label`
