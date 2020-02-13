@@ -6,6 +6,7 @@ const Wrapper = styled.div`
   margin: 20px; 
   padding: 35px;
   border: 2px solid black; 
+  width: 20%; 
 `
 
 const Name = styled.h2`
@@ -33,6 +34,9 @@ const Description = styled.p`
   }
 
 `
+const Shorten = styled.div`
+  grid-template-columns: fit-content(40%);
+`
 const Cards = ({
   name, 
   title, 
@@ -41,7 +45,9 @@ const Cards = ({
   <Wrapper>
     <Name>{name}</Name>
     <Title>{title}</Title>
+    <Shorten>
     <Description>{description}</Description>
+    </Shorten>
   </Wrapper>
 )
 
