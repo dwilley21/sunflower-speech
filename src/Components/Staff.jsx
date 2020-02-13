@@ -36,29 +36,53 @@ export default class Staff extends Component {
                 description="Coached students to out rounds of the NCFL, NIETOC, and NSDA Tournaments in HI, DI, OI, DUO, Duet, and Prose. National Finalists include 2014 NSDA Finalist (5th) -Humorous Interp, 2015 NIETOC Finalist (6th)
                             - Duet Acting, the 2016 NSDA National Runner-Up in Humorous Interp, and 2017 NSDA Finalist (3rd) - Humorous Interp."
                 />
+                </FlexIt>
+                <FlexIt>
                  <Cards
                 name ="Kim Lenger"
                 title="Head Coach - Liberty North (MO)"
                 description="Coached students to out rounds of the NCFL, NIETOC, and NSDA Tournaments in HI, DI, OI, DUO, Duet, and Prose. National Finalists include 2014 NSDA Finalist (5th) -Humorous Interp, 2015 NIETOC Finalist (6th)
                             - Duet Acting, the 2016 NSDA National Runner-Up in Humorous Interp, and 2017 NSDA Finalist (3rd) - Humorous Interp."
                 />
-             </FlexIt>
+                  <Cards
+                name ="Robert Shephard "
+                title="Hall of Fame Member - USDA, UIL TExas"
+                description="Coached National and State Champions in all Interp categories and ORatory. A living legend who inspires all those around him. Inducted into NSDA Hall of Fame and the Texas Hall of Fame"
+                />
+                </FlexIt>
              <Header>Junior Staff</Header >
             <FlexIt>
                 <Cards
-                name ="Nicholas Owen"
-                title="camp counselor"
-                description="Nick likes long walks on the beach"
+                name ="Dalton Willey"
+                title="Limited-Prep, Speaking, Congress"
+                description="2x KS STate Champion in Congress, NSDA National Semi-Finalist, Works for Extemp Relief"
                 />
                 <Cards
-                name ="Nicholas Owen"
-                title="camp counselor"
-                description="Nick likes long walks on the beach"
+                name ="Shekhinah Jones"
+                title="Speaking / Interp"
+                description="KS State Champ in OO Poetry. NCFL National Finalist placed 2nd in Oral Declamation"
                 />
                 <Cards
-                name ="Nicholas Owen"
-                title="camp counselor"
-                description="Nick likes long walks on the beach"
+                name ="Eli Beery"
+                title="Acting / Interp"
+                description="3x KS State Champion in 3 different events. NSDA National Finalist, palcing 4ht in Dramatic Interp"
+                />  
+            </FlexIt>
+            <FlexIt>
+                <Cards
+                name ="Candy Dao"
+                title="Acting / Interp"
+                description="NIETOC National Finalist, placing 6th in Poetry. College competitior who has qualified for AFA in multiple events"
+                />
+                <Cards
+                name ="Cheyenne Martin"
+                title="Acting / Interp"
+                description="Oklahoma State champion in multiple events. National Finalist at NSDA and NIETOC. Placed 3td in Humorous Interp at NSDA"
+                />
+                 <Cards
+                name ="Courtney Carr"
+                title="Acting / Interp"
+                description="Missouri State Champion in DUet, and three time national qualifiter in Duo and POI. NIETOC National Champion in Duet"
                 />
              </FlexIt>
              </>
